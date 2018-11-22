@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MyBall/MyBall.iml" filepath="$PROJECT_DIR$/../MyBall/MyBall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyTom/MyTom.iml" filepath="$PROJECT_DIR$/../MyTom/MyTom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyWord/MyWord.iml" filepath="$PROJECT_DIR$/../MyWord/MyWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PushBox.iml" filepath="$PROJECT_DIR$/PushBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SuperMario/SuperMario.iml" filepath="$PROJECT_DIR$/../SuperMario/SuperMario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WinMine/WinMine.iml" filepath="$PROJECT_DIR$/../WinMine/WinMine.iml" />
+    </modules>
+  </component>
+</project>
